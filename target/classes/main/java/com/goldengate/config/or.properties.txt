@@ -1,2 +1,0 @@
-cameraClick = com.lenovo.scg:id/shutter_button
-cameraClickDone = com.lenovo.scg:id/btn_done
